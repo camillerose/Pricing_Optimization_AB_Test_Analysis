@@ -1,5 +1,5 @@
 # Pricing_Optimization_AB_Test_Analysis
-This notebook analyzes data from an A/B test for pricing optimization.
+This analysis notebook analyzes data from an A/B test for pricing optimization.
 
 ### Three main questions are addressed:
 1) At which price should the company list their software? <br>
